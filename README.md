@@ -11,7 +11,7 @@ status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Audit
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Auditoria da CM Barreiro](12092025_report_002.html)
+Consulte aqui a última atualização: [Relatório da Auditoria da CM Barreiro](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
