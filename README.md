@@ -9,6 +9,13 @@ validity: "02/10/2026 a 02/10/2027" # Entre as aspas escreve data de início e d
 status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
+# PRR - Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)
+
+- Data de criação: 08/08/2025
+- URL: https://www.cm-barreiro.pt
+- Propriedade: Câmara Municipal do Barreiro
+- Candidatura: Bronze
+
 ## Relatório de Auditoria
 
 Consulte aqui a última atualização: [Relatório da Auditoria da CM Barreiro](report.html)
